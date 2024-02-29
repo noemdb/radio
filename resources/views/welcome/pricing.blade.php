@@ -18,7 +18,7 @@
                     <!-- Table Head -->
                     <div class="table-head">
                         <div class="price">
-                            <p class="amount">10:am<span class="duration"> Dos horas</span></p>
+                            <p class="amount">8:00am<span class="duration"> Dos horas</span></p>
                         </div>
                         <div class="title">
                             <h4>Las mejores canciones</h4>
@@ -48,7 +48,7 @@
                     <!-- Table Head -->
                     <div class="table-head">
                         <div class="price">
-                            <p class="amount">2pm<span class="duration">Dos horas</span></p>
+                            <p class="amount">2:00pm<span class="duration">Dos horas</span></p>
                         </div>
                         <div class="title">
                             <h4>Las mejores opiniones</h4>
@@ -78,7 +78,7 @@
                     <!-- Table Head -->
                     <div class="table-head">
                         <div class="price">
-                            <p class="amount">9pm<span class="duration">Dos horas</span></p>
+                            <p class="amount">9:00pm<span class="duration">Dos horas</span></p>
                         </div>
                         <div class="title">
                             <h4>Las mejores canciones</h4>
